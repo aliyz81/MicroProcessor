@@ -7,9 +7,9 @@ University Microprocessor Project by Arduino پروژه ریز پردازنده 
 
 [1 چشمک زن](https://github.com/aliyz81/MicroProcessor/tree/main/Arduino%20File/14030709)
 
-[2 چشمک زن با دو عدد LED](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030716)
+[2 چشمک زن با دو عدد LED](https://github.com/aliyz81/MicroProcessor/tree/main/Arduino%20File/14030716)
 
-[3 خاموش و روشن کردن LED با ارسال پیام سریال](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030716)
+[3 خاموش و روشن کردن LED با ارسال پیام سریال](https://github.com/aliyz81/MicroProcessor/tree/main/Arduino%20File/14030716)
 
 [4 ماشین حساب ](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030716)
 

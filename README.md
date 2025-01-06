@@ -11,11 +11,11 @@ University Microprocessor Project by Arduino پروژه ریز پردازنده 
 
 [3 خاموش و روشن کردن LED با ارسال پیام سریال](https://github.com/aliyz81/MicroProcessor/tree/main/Arduino%20File/14030716)
 
-[4 ماشین حساب ](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030716)
+[4 ماشین حساب ](https://github.com/aliyz81/MicroProcessor/tree/main/Arduino%20File/14030716)
 
-[5 نمودار سینوس ، کسیسنوس ](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030723)
+[5 نمودار سینوس ، کسیسنوس ](https://github.com/aliyz81/MicroProcessor/tree/main/Arduino%20File/14030723)
 
-[6 روشن شدن ال ای دی با کلید ](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030723)
+[6 روشن شدن ال ای دی با کلید ](https://github.com/aliyz81/MicroProcessor/tree/main/Arduino%20File/14030723)
 
 [7 رقص نور](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030730)
 
